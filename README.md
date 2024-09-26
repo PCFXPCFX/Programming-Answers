@@ -11,14 +11,14 @@
 
 ## 关于我
 
-我是一名计算机专业的大学生，正在不断探索和提升自己的技能。希望通过这些解答能帮助自己复习和回顾，同时也希望与大家分享学习的过程。
+我是一名广东技寄宿吃饭大学计算机专业的大学生，正在不断探索和提升自己的技能。希望通过这些解答能帮助自己复习和回顾，同时也希望与大家分享学习的过程。
 
 ## 解答列表
 
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
-| difference-between-element-sum-and-digit-sum-of-an-array | LeetCode | [链接](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |
-| 示例题目2 | 941 | [链接](#) |
+| 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |
+|宝石与物品栏| 941 | [链接]([#](http://www.941code.com/problem/detail/problemset/64bbf4d28f4180688c5c8cdd/c42fe71f-7b25-43fb-a421-18b141e97352/F1003)) |
 
 ## 贡献
 
