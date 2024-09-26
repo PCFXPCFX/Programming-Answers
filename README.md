@@ -17,8 +17,8 @@
 
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
-| 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |
-|宝石与物品栏| 941 | [链接](http://www.941code.com/problem/detail/problemset/64bbf4d28f4180688c5c8cdd/c42fe71f-7b25-43fb-a421-18b141e97352/F1003) |
+| 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
+|宝石与物品栏| 941 | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/F1003%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%89%A9%E5%93%81%E6%A0%8F.c) |
 
 ## 贡献
 
