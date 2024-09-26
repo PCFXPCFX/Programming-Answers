@@ -17,7 +17,7 @@
 
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
-| difference-between-element-sum-and-digit-sum-of-an-array | LeetCode | [链接]([#](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)) |
+| difference-between-element-sum-and-digit-sum-of-an-array | LeetCode | [链接](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |
 | 示例题目2 | 941 | [链接](#) |
 
 ## 贡献
