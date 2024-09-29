@@ -19,6 +19,9 @@
 |------|------|----------|
 | 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
 |宝石与物品栏| 941 | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/F1003%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%89%A9%E5%93%81%E6%A0%8F.c) |
+|A小红的字符移动|牛客周赛|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/nowcoder/Round62/A.c)|
+|B小红的数轴移动|牛客周赛|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/nowcoder/Round62/B.c)|
+|C小红的圆移动|牛客周赛|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/nowcoder/Round62/C.c)|
 
 ## 贡献
 
