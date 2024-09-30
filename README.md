@@ -15,6 +15,7 @@
 
 ## 解答列表
 
+### c语言
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
 | 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
