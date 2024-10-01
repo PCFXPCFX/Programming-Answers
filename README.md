@@ -19,6 +19,7 @@
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
 | 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
+| 1014. 最佳观光组合 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/1014.%20Best%20Sightseeing%20Pair.c) |
 |宝石与物品栏| 941 | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/F1003%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%89%A9%E5%93%81%E6%A0%8F.c) |
 |冒泡排序|941|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/YBT2039%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.c)|
 |A小红的字符移动|牛客周赛|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/nowcoder/Round62/A.c)|
