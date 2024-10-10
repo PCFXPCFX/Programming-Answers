@@ -1,0 +1,60 @@
+
+1470. 重新排列数组
+使用了动态内存规划
+#include <stdio.h>
+#include <stdlib.h>  // 包含动态内存分配函数
+
+int main() {
+    int n; // 动态数组的大小
+    printf("请输入数组大小: ");
+    scanf("%d", &n);
+
+    // 使用 malloc 动态分配 n 个 int 大小的内存
+    int *arr = (int*)malloc(n * sizeof(int)); 
+
+    // 检查内存分配是否成功
+    if (arr == NULL) {
+        printf("内存分配失败\n");
+        return 1;
+    }
+
+    // 初始化动态数组
+    for (int i = 0; i < n; i++) {
+        arr[i] = i + 1;  // 将数组赋值为 1 到 n 的值
+    }
+
+    // 输出数组
+    printf("动态数组内容: ");
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+
+    // 释放动态分配的内存
+    free(arr);
+
+    return 0;
+}
+
+//
+//
+//
+//
+
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+int* shuffle(int* nums, int numsSize, int n, int* returnSize){
+    int *arr = (int*)malloc(2*n*sizeof(int));
+    int i=0;
+    for(int j=0;j<n;j++)
+    {
+        arr[i++]=nums[j];
+        arr[i++]=nums[n+j];
+    }
+    *returnSize =2*n;
+    return arr;
+}
