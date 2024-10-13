@@ -29,7 +29,7 @@
 |------|------|----------|
 |宝石与物品栏| 941 | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/F1003%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%89%A9%E5%93%81%E6%A0%8F.c) |
 |冒泡排序|941|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/YBT2039%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.c)|
-|【2023新生组】【J】1或145 进阶|941|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/941solution/C1009%E3%80%902023%E6%96%B0%E7%94%9F%E7%BB%84%E3%80%91%E3%80%90J%E3%80%911%E6%88%96145%20-%20%E8%BF%9B%E9%98%B6.c)|
+|【2023新生组】【J】1或145 进阶|941|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/941solution/C1009%E3%80%902023%E6%96%B0%E7%94%9F%E7%BB%84%E3%80%91%E3%80%90J%E3%80%911%E6%88%96145%20-%20%E8%BF%9B%E9%98%B6.md)|
 
 ### nowcoder
 | 题目 | 平台 | 解答链接 |
