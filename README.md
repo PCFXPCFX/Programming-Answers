@@ -16,8 +16,8 @@
 
 ## 解答列表
 ### 算法学习
-#### 灵茶山艾府 灵神刷题路线
-#### 一、定长滑动窗口
+  #### 灵茶山艾府 灵神刷题路线
+    #### 一、定长滑动窗口
 | 题目       | 解答链接                   | 日期     |
 |------------|---------------------------|------------|
 |[1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/edit/main/EndlessCheng/1456.%20%E5%AE%9A%E9%95%BF%E5%AD%90%E4%B8%B2%E4%B8%AD%E5%85%83%E9%9F%B3%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE.md) | 2024年10月31日 |
@@ -25,8 +25,8 @@
 
 
 ### 基础
-### c语言/c++
-#### leetcode
+  ### c语言/c++
+    #### leetcode
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
 | 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
@@ -36,14 +36,14 @@
 |2. 两数相加 | LeetCode | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/leetcode/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.cpp)|
 |445. 两数相加 II | LeetCode |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/leetcode/445.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.cpp) |
 
-#### 941
+    #### 941
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
 |宝石与物品栏| 941 | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/F1003%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%89%A9%E5%93%81%E6%A0%8F.c) |
 |冒泡排序|941|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/941solution/YBT2039%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.c)|
 |【2023新生组】【J】1或145 进阶|941|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/941solution/C1009%E3%80%902023%E6%96%B0%E7%94%9F%E7%BB%84%E3%80%91%E3%80%90J%E3%80%911%E6%88%96145%20-%20%E8%BF%9B%E9%98%B6.md)|
 
-### nowcoder
+    ### nowcoder
 | 题目 | 平台 | 解答链接 |
 |------|------|----------|
 |A小红的字符移动|牛客周赛|[链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/nowcoder/Round62/A.c)|
