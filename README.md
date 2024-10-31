@@ -29,6 +29,7 @@
 |------------|---------------------------|----------|
 | [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/edit/main/EndlessCheng/1456.%20%E5%AE%9A%E9%95%BF%E5%AD%90%E4%B8%B2%E4%B8%AD%E5%85%83%E9%9F%B3%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE.md) | 2024年10月31日 |
 |[643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/description/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/643.%20%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.cpp) | 2024年10月31日 |
+|[1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)  | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/1343.%20%E5%A4%A7%E5%B0%8F%E4%B8%BA%20K%20%E4%B8%94%E5%B9%B3%E5%9D%87%E5%80%BC%E5%A4%A7%E4%BA%8E%E7%AD%89%E4%BA%8E%E9%98%88%E5%80%BC%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE.cpp)   | 2024年11月1日 |
 
 ### 基础
 
