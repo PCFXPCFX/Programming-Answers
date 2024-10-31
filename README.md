@@ -28,6 +28,7 @@
 | 题目       | 解答链接                   | 日期     |
 |------------|---------------------------|----------|
 | [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/edit/main/EndlessCheng/1456.%20%E5%AE%9A%E9%95%BF%E5%AD%90%E4%B8%B2%E4%B8%AD%E5%85%83%E9%9F%B3%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE.md) | 2024年10月31日 |
+|[643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/description/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/643.%20%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.cpp) | 2024年10月31日 |
 
 ### 基础
 
