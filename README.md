@@ -23,6 +23,7 @@
 | 2535. 数组元素和与数字和的绝对差 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/2535difference-between-element-sum-and-digit-sum-of-an-array.c) |
 | 1014. 最佳观光组合 | LeetCode | [链接](https://github.com/PCFXPCFX/leetcode-solution/blob/main/leetcode/1014.%20Best%20Sightseeing%20Pair.c) |
 |1470. 重新排列数组 | Leetcode | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/leetcode/1470.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84) |
+|21. 合并两个有序链表| LeetCode | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/leetcode/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.c) |
 
 #### 941
 | 题目 | 平台 | 解答链接 |
