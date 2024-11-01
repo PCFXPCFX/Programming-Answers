@@ -31,6 +31,7 @@
 |[643. 子数组最大平均数 I](https://leetcode.cn/problems/maximum-average-subarray-i/description/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/643.%20%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0%20I.cpp) | 2024年10月31日 |
 |[1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)  | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/1343.%20%E5%A4%A7%E5%B0%8F%E4%B8%BA%20K%20%E4%B8%94%E5%B9%B3%E5%9D%87%E5%80%BC%E5%A4%A7%E4%BA%8E%E7%AD%89%E4%BA%8E%E9%98%88%E5%80%BC%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE.cpp)   | 2024年11月1日 |
 |[2090. 半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/2090.%20%E5%8D%8A%E5%BE%84%E4%B8%BA%20k%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84%E5%B9%B3%E5%9D%87%E5%80%BC.cpp) |2024年11月1日|
+|[2379. 得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/2379.%20%E5%BE%97%E5%88%B0%20K%20%E4%B8%AA%E9%BB%91%E5%9D%97%E7%9A%84%E6%9C%80%E5%B0%91%E6%B6%82%E8%89%B2%E6%AC%A1%E6%95%B0.cpp) | 2024年11月1日 |
 
 ### 基础
 
