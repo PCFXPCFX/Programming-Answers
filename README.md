@@ -40,7 +40,7 @@
 | 题目       | 解答链接                   | 日期     |
 |------------|---------------------------|----------|
 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |2024年11月1日|
-|[125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/submissions/577501666/) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |2024年11月1日 |
+|[125. 验证回文串](https://leetcode.cn/problems/valid-palindrome) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |2024年11月1日 |
 
 
 
