@@ -60,3 +60,29 @@ public:
 // 链接：https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/solutions/268475/ha-xi-biao-zhong-cun-zi-fu-chuan-shi-jian-fu-za-du/
 // 来源：力扣（LeetCode）
 // 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+//根据答案思路写的
+class Solution {
+public:
+    bool hasAllCodes(string s, int k) {
+        if(k > s.size()) return 0;
+        int n=s.size();
+        vector<bool>find(1<<k,false);
+        int cur=0;
+        for(int i=0;i<k;i++)
+        {
+            cur = cur*2 + (s[i]=='1');
+        }
+        find[cur]=true;
+        for(int i=k;i<n;i++)
+        {
+            cur &=~(1<<(k-1));
+            cur = cur*2 + (s[i]=='1');
+            find[cur]=true;
+        }
+        for(int i:find) if(!i) return false;
+        return true;
+    }
+
+};
+//15ms
