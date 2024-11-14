@@ -1,0 +1,13 @@
+class Solution {
+public:
+    const int N=1e3+1;
+    int dp(int a)
+    {
+        if(a==1) return 1;
+        if(a==2) return 2;
+        return dp(a-1)+dp(a-2);
+    }
+    int climbStairs(int n) {
+        return dp(n);
+    }
+};
