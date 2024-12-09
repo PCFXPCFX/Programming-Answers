@@ -37,6 +37,7 @@
 #### 二、不定长滑动窗口
 | 题目       | 解答链接                   | 日期     |
 |------------|---------------------------|----------|
+|1208. 尽可能使字符串相等 |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/1208.%20%E5%B0%BD%E5%8F%AF%E8%83%BD%E4%BD%BF%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E7%AD%89.cpp)|2024年12月9日|
 
 #### 三、单序列双指针
 | 题目       | 解答链接                   | 日期     |
