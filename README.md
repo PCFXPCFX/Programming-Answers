@@ -45,7 +45,7 @@
 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/滑动窗口/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |2024年11月1日|
 |[125. 验证回文串](https://leetcode.cn/problems/valid-palindrome) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/滑动窗口/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |2024年11月1日 |
 |[209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/description/) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/滑动窗口/209.%20%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 2024年11月5日 |
-|[2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/2730.%20%E6%89%BE%E5%88%B0%E6%9C%80%E9%95%BF%E7%9A%84%E5%8D%8A%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)
+|[2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/2730.%20%E6%89%BE%E5%88%B0%E6%9C%80%E9%95%BF%E7%9A%84%E5%8D%8A%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|2024年12月10日|
 
 
 
