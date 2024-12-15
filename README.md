@@ -37,11 +37,14 @@
 #### 二、不定长滑动窗口
 | 题目       | 解答链接                   | 日期     |
 |------------|---------------------------|----------|
+|2.1求最长、最大|||
 |[1208. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/description/) |[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/滑动窗口/1208.%20%E5%B0%BD%E5%8F%AF%E8%83%BD%E4%BD%BF%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E7%AD%89.cpp)|2024年12月9日|
 |[2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/2730.%20%E6%89%BE%E5%88%B0%E6%9C%80%E9%95%BF%E7%9A%84%E5%8D%8A%E9%87%8D%E5%A4%8D%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|2024年12月10日|
 |[904. 水果成篮](https://leetcode.cn/problems/fruit-into-baskets/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/904.%20%E6%B0%B4%E6%9E%9C%E6%88%90%E7%AF%AE.cpp)|2024年12月10日|
 |[1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/1695.%20%E5%88%A0%E9%99%A4%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.cpp)|2024年12月10日|
 |[2958. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/2958.%20%E6%9C%80%E5%A4%9A%20K%20%E4%B8%AA%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.cpp)|2024年12月10日|
+|2.2求最短、最小|||
+|[2904. 最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)|[链接](https://github.com/PCFXPCFX/Programming-Answers/blob/main/EndlessCheng/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/2904.%20%E6%9C%80%E7%9F%AD%E4%B8%94%E5%AD%97%E5%85%B8%E5%BA%8F%E6%9C%80%E5%B0%8F%E7%9A%84%E7%BE%8E%E4%B8%BD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|2024年12月15日|
 
 
 #### 三、单序列双指针
