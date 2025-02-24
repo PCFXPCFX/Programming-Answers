@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c"
+    }
+}

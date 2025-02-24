@@ -1,43 +1,21 @@
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
- 
-#define pi 3.14159265358
-#define INF 1e18 
- 
-int compare(const void* a, const void* b) {//板子
-    return (*(double*)a > *(double*)b) - (*(double*)a < *(double*)b);
-}
- 
+#include<bits/stdc++.h>
+using namespace std;
 int main()
 {
-    long long  curcleNumber,inYuan=0,k;
-    double cost[100000]={0},taltolCost=0.0;
-    scanf("%lld %lld",&curcleNumber,&k);
-    for(int i=0;i<curcleNumber;i++)
+    int n;
+    cin>>n;
+    unordered_set<int> s;
+    for(int i=0;i<n;i++)
     {
-        long long  x,y,r;
-        double d;
-        scanf("%lld %lld %lld",&x,&y,&r);
-        d= sqrt(x*x+y*y);
-        if(d>=r)
+        int input;
+        cin>>input;
+        if(s.count(input)!=0)
         {
-            continue;
+            cout<<"NO";
+            return 0;
         }
-        else
-        {
-            cost[inYuan++]=(r-d)*pi*r*r;
-        }
+        s.insert(input);
     }
-     
-    if(inYuan<k)    printf("0.000000000000000\n");
-    else
-    {
-        long long  Number=inYuan-k;
-        qsort(cost, inYuan, sizeof(double), compare);
-        for (long long i = 0; i < Number; i++) 
-            taltolCost += cost[i];
-        printf("%.15lf",taltolCost);
-    }
+    cout<<"YES";
     return 0;
-    }
+}
