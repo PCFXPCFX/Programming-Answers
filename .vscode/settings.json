@@ -70,7 +70,14 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "windows.h": "c",
+        "string.h": "c",
+        "ctype.h": "c",
+        "direct.h": "c",
+        "cerrno": "c"
     },
     "fittencode.showResourceSubmenu": false,
     "fittencode.showSubmenu": false
